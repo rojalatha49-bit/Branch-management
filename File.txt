@@ -1,1 +1,1 @@
-Hello! Welcome to Git and Devops!
+Hello! Welcome to Git Tutorial!
